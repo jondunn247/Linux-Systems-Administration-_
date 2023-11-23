@@ -1,5 +1,6 @@
 # Linux-Systems-Administration-_
 Act as a system administrator in order to troubleshoot a malfunctioning Linux server.
+
 Step 1: Ensure/Double Check Permissions on Sensitive Files
 
 Permissions on /etc/shadow should allow only root read and write access.
@@ -140,9 +141,3 @@ Man chkrootkit
 Command to run expert mode:
 
 Sudo chkrootkit -x
-
-
-Provide a report from the chrootkit output with recommendations for hardening the system.
-
-Screenshot of end of sample output:
-
